@@ -1,0 +1,15 @@
+{
+  "name": "liquid-system",
+  "version": "0.1.0",
+  "description": "NodeJS operating system running on small linux system or others",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prod": "node ./index"
+  },
+  "author": "Anton Kanashov",
+  "license": "ISC",
+  "dependencies": {
+    "terminal-kit": "^1.27.0"
+  }
+}
